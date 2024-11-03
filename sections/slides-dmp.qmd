@@ -276,6 +276,44 @@ From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.
 
 <!-- page X -->
 
+## The DMP : process
+
+> **DMP OPIDoR** is a tool to help create online data management plans (Data Management Plan or DMP) made available to Higher Education and Research. It is hosted and managed by Inist-CNRS. Based on the open source code DMPRoadmap, it has been adapted to the needs of the French scientific community.
+
+> **Customizable** it participates in the implementation of data policies of institutions or disciplinary communities by adding adapted DMP models and facilitates the harmonization of good community practices. => soon : an ecoinformatic dmp template ! ;)
+
+> **Machine actionable** it facilitates entry and interactions with the services involved in data management.
+
+> **Templates** search your funding support and/or your insitution templates
+
+![](images/image-dmp-opidor.png){width=60%}
+
+From [OPIDor](https://opidor.fr/planifier/)
+
+<!-- page X -->
+
+## The DMP : process
+
+> Before writing your DMP, check the existing DMP templates !
+
+
+| Model name  | Name of the organization  | Type of organization    | Download   |
+|:------------|:-----------:|------------:|------------:|------------:|------------:|
+| ANR - DMP template | Agence Nationale de la Recherche | Funders | [Word](https://dmp.opidor.fr/template_export/1858712127.docx) [PDF](https://dmp.opidor.fr/template_export/1858712127.pdf)  |
+| AgroParisTech - DMP template for Project | AgroParisTech - Institut des sciences et industries du vivant et de l'environnement | Institution | [Word](https://dmp.opidor.fr/template_export/2050970126.docx) [PDF](https://dmp.opidor.fr/template_export/2050970126.pdf) |
+| CIRAD-TEMPLATE-ENG  | CIRAD | Institution | [Word](https://dmp.opidor.fr/template_export/177866310.docx) [PDF](https://dmp.opidor.fr/template_export/177866310.pdf) |
+| Horizon 2020 FAIR DMP | European Commission | Funders | [Word](https://dmp.opidor.fr/template_export/11.docx) [PDF](https://dmp.opidor.fr/template_export/11.pdf) |
+| ERC DMP  | European Research Council, ERC | Funders | [Word](European Research Council, ERC) [PDF](https://dmp.opidor.fr/template_export/1445076000.pdf) |
+| INRAE - Project template  | INRAE - Institut national de recherche pour l'agriculture l'alimentation et l'environnement | Institution | [Word](https://dmp.opidor.fr/template_export/1523589240.docx) [PDF](https://dmp.opidor.fr/template_export/1523589240.pdf) |
+| Sorbonne Université - Modèle Plateforme (*in French*) | Sorbonne Université | Institution | [Word](https://dmp.opidor.fr/template_export/73161508.docx) [PDF](https://dmp.opidor.fr/template_export/73161508.pdf) |
+| University of Montpellier - DMP template (english) 2 | Université de Montpellier | Institution | [Word](https://dmp.opidor.fr/template_export/86132113.docx) [PDF](https://dmp.opidor.fr/template_export/86132113.pdf)|
+
+: Table 1: Examples of DMP templates, from [DMP OPIDor](https://dmp.opidor.fr/public_templates)
+
+From the [DMP OPIDor template sections](https://dmp.opidor.fr/public_templates) and adapted
+
+<!-- page X -->
+
 # The DMP : resources
 
 <!-- page X -->
