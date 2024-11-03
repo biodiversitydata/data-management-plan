@@ -241,13 +241,13 @@ From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.
 
 > **Data sharing and long-term preservation**
 
-- How and when will data be shared? Are there possible restrictions to data sharing or embargo reasons? (**data access, embargo, archives, ...**)
+- How and when will data be shared? (**data access, restrictions, embargo, archives, ...**)
 
-- How will data for preservation be selected, and where data will be preserved long-term (for example a data repository or archive)? (**repository, metadata standards, ...**)
+- How will data for preservation be selected, and where data will be preserved long-term? (**repository, metadata standards, data repository or archive ...**)
 
-- What methods or software tools are needed to access and use data? (**mechanism, request handle, ...**)
+- What methods or software tools are needed to access and use data? (**request handle, ...**)
 
-- How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each dataset be ensured? (*PID with repository linked with data papers, ...*)
+- How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each dataset be ensured? (*PID, ...*)
 
 From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
 
@@ -267,9 +267,9 @@ From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.
 
 > **Data management responsibilities and resources**
 
-- Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)? (**DMP responsible, data stewardship, ...**)
+- Who (for example role, position, and institution) will be responsible for data management? (**DMP responsible, data stewardship, ...**)
 
-- What resources (for example financial and time) will be dedicated to data management and ensuring that data will be FAIR (Findable, Accessible, Interoperable, Re-usable)? (**data curation, data storage, cost, ...**)
+- What resources will be dedicated to data management and ensuring that data will be FAIR? (**data curation, data storage, financial and time cost, ...**)
 
 
 From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
