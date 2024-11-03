@@ -15,14 +15,13 @@
 
 ::: { .column .center width="33%"}
 {{< fa code size=2x >}}
-<br>
-Section 1
+Data Management Plan : reminder of the context and the issues
 :::
 
 ::: { .column .center width="33%"}
 {{< fa brands github size=2x >}}
 <br>
-Section 2
+Process
 :::
 
 ::: { .column .center width="33%"}
