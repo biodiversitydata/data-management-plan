@@ -316,7 +316,7 @@ From the [DMP OPIDor template sections](https://dmp.opidor.fr/public_templates) 
 
 ## The DMP : process
 
-### Le contenu d'un PGD doit permettre de donner des informations de ce type :
+Le contenu d'un PGD doit permettre de donner des informations de ce type :
 - Information de haut niveau (titre du PGD, date de modification, ...) => A noter que le PGD est un document vivant avec différentes version évoluant avec le temps entre l'avant projet et l'après projet.
 - Description du projet de recherche
 - Description du financement associé au projet
@@ -331,7 +331,7 @@ From the [DMP OPIDor template sections](https://dmp.opidor.fr/public_templates) 
 - Ressources techniques nécessaires à la production, stockage et gestion de données
 - Quel(s) standards de métadonnées est/sont utilisé (s) pour décrire les données.
 
-### Préconisations :
+Préconisations :
 **GENERAL**
 - La définition des licences (des données surtout et aussi des codes sources), à effectuer  le plus tôt possible (si possible dans les premiers mois de projet) car si cela tarde trop, ce sera trop tard
     - On voit souvent la mention de "seront utilisées les creative commons" ce qui en fait n'indique pas grand chose. Du coup, il me paraît essentiel de préciser si CC-BY 4.0 (donc compatible etalab v2.0 donc open data) ou autre CC-BY-XX.. (donc non open data) et surtout pas CC0 pas autorisé pour données de recherche
