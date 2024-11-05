@@ -348,9 +348,7 @@ From the [DMP OPIDor template sections](https://dmp.opidor.fr/public_templates) 
 
 ## The DMP : process
 
-> Préconisations :
-
-> **GENERAL**
+> **Préconisations générales :**
 
 - La définition des licences (des données surtout et aussi des codes sources), à effectuer  le plus tôt possible (si possible dans les premiers mois de projet) car si cela tarde trop, ce sera trop tard
     - On voit souvent la mention de "seront utilisées les creative commons" ce qui en fait n'indique pas grand chose. Du coup, il me paraît essentiel de préciser si CC-BY 4.0 (donc compatible etalab v2.0 donc open data) ou autre CC-BY-XX.. (donc non open data) et surtout pas CC0 pas autorisé pour données de recherche
