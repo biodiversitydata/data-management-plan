@@ -331,6 +331,10 @@ Le contenu d'un PGD doit permettre de donner des informations de ce type :
 - Ressources techniques nécessaires à la production, stockage et gestion de données
 - Quel(s) standards de métadonnées est/sont utilisé (s) pour décrire les données.
 
+<!-- page X -->
+
+## The DMP : process
+
 Préconisations :
 **GENERAL**
 - La définition des licences (des données surtout et aussi des codes sources), à effectuer  le plus tôt possible (si possible dans les premiers mois de projet) car si cela tarde trop, ce sera trop tard
