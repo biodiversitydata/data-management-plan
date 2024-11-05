@@ -24,7 +24,7 @@
 
 <br>
 <p align="center">
-  <a href="https://biodiversitydata.github.io/quarto-template" target="_blank"><b>View presentation</b></a>
+  <a href="https://biodiversitydata.github.io/data-management-plan/#/" target="_blank"><b>View presentation</b></a>
 </p>
 <br>
 
