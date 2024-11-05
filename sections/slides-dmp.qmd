@@ -357,6 +357,10 @@ From the [DMP OPIDor template sections](https://dmp.opidor.fr/public_templates) 
 - Préciser asap les délais / périodes d'embargo quand mention d'un délai de partage
 - Préciser les ""garanties"" de stockage proposées / attendues (durée du projet / 5 / 10 / >10 ans)
 
+<!-- page X -->
+
+## The DMP : process
+
 > **INTEROPERABILITE**
 
 - Préciser, si information existante, selon les données, quels catalogues et / ou entrepôts seront précisément utilisés
