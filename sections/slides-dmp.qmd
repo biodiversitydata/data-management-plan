@@ -314,9 +314,7 @@ From the [DMP OPIDor template sections](https://dmp.opidor.fr/public_templates) 
 
 <!-- page X -->
 
-# The DMP : resources
-
-<!-- page X -->
+## The DMP : process
 
 ### Le contenu d'un PGD doit permettre de donner des informations de ce type :
 - Information de haut niveau (titre du PGD, date de modification, ...) => A noter que le PGD est un document vivant avec différentes version évoluant avec le temps entre l'avant projet et l'après projet.
@@ -351,6 +349,13 @@ From the [DMP OPIDor template sections](https://dmp.opidor.fr/public_templates) 
 
 **PERSONNES**
 - Préciser la fonction et structure de chaque personne mentionnée (si possible avec ORCID)
+
+
+<!-- page X -->
+
+# The DMP : resources
+
+<!-- page X -->
 
 ## The DMP : resources
 
