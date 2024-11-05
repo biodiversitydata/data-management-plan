@@ -318,6 +318,40 @@ From the [DMP OPIDor template sections](https://dmp.opidor.fr/public_templates) 
 
 <!-- page X -->
 
+### Le contenu d'un PGD doit permettre de donner des informations de ce type :
+- Information de haut niveau (titre du PGD, date de modification, ...) => A noter que le PGD est un document vivant avec différentes version évoluant avec le temps entre l'avant projet et l'après projet.
+- Description du projet de recherche
+- Description du financement associé au projet
+- Les personnes/organismes contact pour le PGD
+- Les contributeurs au PGD
+- Coûts associés à la gestion de données
+- Description des jeux de données
+- Distribution des jeux de données
+- Licence des données, métadonnées.
+- Hébergeur de données
+- Sécurité et sensibilité des données
+- Ressources techniques nécessaires à la production, stockage et gestion de données
+- Quel(s) standards de métadonnées est/sont utilisé (s) pour décrire les données.
+
+### Préconisations :
+**GENERAL**
+- La définition des licences (des données surtout et aussi des codes sources), à effectuer  le plus tôt possible (si possible dans les premiers mois de projet) car si cela tarde trop, ce sera trop tard
+    - On voit souvent la mention de "seront utilisées les creative commons" ce qui en fait n'indique pas grand chose. Du coup, il me paraît essentiel de préciser si CC-BY 4.0 (donc compatible etalab v2.0 donc open data) ou autre CC-BY-XX.. (donc non open data) et surtout pas CC0 pas autorisé pour données de recherche
+    - Quand une licence non ouverte est proposée, je demande si elle est assumée (déjà pour bien informé de ce qui est considéré ouvert et non ouvert)
+    - Quand le choix est assumé ;) je me demande si on peut tenter de mettre en avant les aspects financement public > 50% pour tenter un rappel gentil de l'aspect ouverture des données publiques devant normalement être la rêgle
+- Préciser asap les délais / périodes d'embargo quand mention d'un délai de partage
+- Préciser les ""garanties"" de stockage proposées / attendues (durée du projet / 5 / 10 / >10 ans)
+- 
+**INTEROPERABILITE**
+- Préciser, si information existante, selon les données, quels catalogues et / ou entrepôts seront précisément utilisés
+- La présentation de liens entre les standards "maison" mentionnés et des standards internationaux
+
+**CODES SOURCES**
+- Pour les codes sources, si connus, bien de lister les librairies / packages / dépendances et modes d'accès / utilisation.
+
+**PERSONNES**
+- Préciser la fonction et structure de chaque personne mentionnée (si possible avec ORCID)
+
 ## The DMP : resources
 
 <!-- page X -->
