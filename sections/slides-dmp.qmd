@@ -316,63 +316,63 @@ From the [DMP OPIDor template sections](https://dmp.opidor.fr/public_templates) 
 
 ## The DMP : process
 
-> **Le contenu d'un PGD doit permettre de donner des informations de ce type :**
+> **The content of a PGD must make it possible to provide information of this type :**
 
-- Information de haut niveau (titre du PGD, date de modification, ...) => A noter que le PGD est un document vivant avec différentes version évoluant avec le temps entre l'avant projet et l'après projet.
+- High-level information (title of the PGD, date of modification, etc.) => Note that the PGD is a living document with different versions evolving over time between the pre-project and post-project.
 
-- Description du projet de recherche
+- Research priject description
 
-- Description du financement associé au projet
+- Project funding description
 
-- Les personnes/organismes contact pour le PGD
+- DMP contact
 
-- Les contributeurs au PGD
+- DMP contributors
 
-- Coûts associés à la gestion de données
+- Data management costs
 
-- Description des jeux de données
+- Datasets description
 
-- Distribution des jeux de données
+- Datasets distribution
 
-- Licence des données, métadonnées.
+- Data & metadata licences
 
-- Hébergeur de données
+- Data hosting
 
-- Sécurité et sensibilité des données
+- Data sensibility a& security
 
-- Ressources techniques nécessaires à la production, stockage et gestion de données
+- Technical resources required for data production, storage and management
 
-- Quel(s) standards de métadonnées est/sont utilisé (s) pour décrire les données.
-
-<!-- page X -->
-
-## The DMP : process
-
-> **Préconisations générales :**
-
-- La définition des licences (des données surtout et aussi des codes sources), à effectuer  le plus tôt possible (si possible dans les premiers mois de projet) car si cela tarde trop, ce sera trop tard
-    - On voit souvent la mention de "seront utilisées les creative commons" ce qui en fait n'indique pas grand chose. Du coup, il me paraît essentiel de préciser si CC-BY 4.0 (donc compatible etalab v2.0 donc open data) ou autre CC-BY-XX.. (donc non open data) et surtout pas CC0 pas autorisé pour données de recherche
-    - Quand une licence non ouverte est proposée, je demande si elle est assumée (déjà pour bien informé de ce qui est considéré ouvert et non ouvert)
-    - Quand le choix est assumé ;) je me demande si on peut tenter de mettre en avant les aspects financement public > 50% pour tenter un rappel gentil de l'aspect ouverture des données publiques devant normalement être la rêgle
-- Préciser asap les délais / périodes d'embargo quand mention d'un délai de partage
-- Préciser les ""garanties"" de stockage proposées / attendues (durée du projet / 5 / 10 / >10 ans)
+- What metadata standard(s) is/are used to describe the data
 
 <!-- page X -->
 
 ## The DMP : process
 
-> **INTEROPERABILITE**
+> **General recommendations :**
 
-- Préciser, si information existante, selon les données, quels catalogues et / ou entrepôts seront précisément utilisés
-- La présentation de liens entre les standards "maison" mentionnés et des standards internationaux
+- The definition of licenses (especially data and also source codes), to be carried out as soon as possible (if possible in the first months of the project) because if it takes too long, it will be too late
+    - We often see the mention of “creative commons will be used” which in fact does not indicate much. Therefore, it seems essential to me to specify whether CC-BY 4.0 (therefore compatible etalab v2.0 therefore open data) or other CC-BY-XX.. (therefore not open data) and especially not CC0 not authorized for research data
+    - When a non-open license is proposed, I ask if it is assumed (already to be well informed of what is considered open and not open)
+    -When the choice is assumed ;) I wonder if we can try to highlight the public funding aspects > 50% to try to provide a gentle reminder of the aspect of openness of public data which should normally be the rule
+- Specify asap the deadlines / embargo periods when mentioning a sharing deadline
+- Specify the proposed/expected storage “guarantees” (project duration/5/10/>10 years)
 
-> **CODES SOURCES**
+<!-- page X -->
 
-- Pour les codes sources, si connus, bien de lister les librairies / packages / dépendances et modes d'accès / utilisation.
+## The DMP : process
 
-> **PERSONNES**
+> **INTEROPERABILITY**
 
-- Préciser la fonction et structure de chaque personne mentionnée (si possible avec ORCID)
+- Specify, if existing information, according to the data, which catalogs and/or warehouses will be precisely used
+- The presentation of links between the “in-house” standards mentioned and international standards
+
+> **SOURCES CODES**
+
+- For the source codes, if known, please list the libraries / packages / dependencies and access / use modes
+
+> **PEOPLE**
+
+- Specify the function and structure of each person mentioned (if possible with ORCID)
 
 
 <!-- page X -->
