@@ -19,16 +19,16 @@ engine: knitr
 ```
 
 
-<!-- Insert section 'Table of contents' -->
+<!-- Insert section 'Data lifecycle' -->
 
 ```{r}
-#| child: "sections/table-of-contents.qmd"
+#| child: "sections/data-lifecycle.qmd"
 ```
 
 
 <!-- Insert section 'Quarto basics' -->
 
 ```{r}
-#| child: "sections/slides-dmp.qmd"
+#| child: "sections/slides.qmd"
 ```
 

@@ -1,21 +1,12 @@
-<!-- Delete the chunk from here... -->
-
-> [!IMPORTANT]
-> Please visit our [**Wiki**](https://github.com/biodiversitydata/quarto-template/wiki) to learn more about this Template.
-
-<!-- ... to here -->
-
-
-
 <!-- Logo & Title -->
 
 <h1 align="center">
   <br>
   <img src="images/readme/logo-readme.png" alt="Logo" width="200">
   <br>
-  Quarto template
+  Data Management Plan
   <br>
-  HTML presentation w/ RevealJS
+  A tool to plan your own data lifecycle from the beginning
   <br>
 </h1>
 
@@ -72,7 +63,7 @@
 
 ## Overview
 
-This repository contains files used to generate the online presentation [Quarto template](https://biodiversitydata.github.io/quarto-template) based on [Quarto](https://quarto.org/) and the [RevealJS](https://quarto.org/docs/presentations/revealjs/) framework.
+This repository contains files used to generate the online presentation [Data Management Plan](https://biodiversitydata.github.io/data-management-plan) based on [Quarto](https://quarto.org/) and the [RevealJS](https://quarto.org/docs/presentations/revealjs/) framework.
 
 
 ## Usage
@@ -91,14 +82,14 @@ To understand the file organisation of this repository, please read this [Wiki](
 
 ## Citation
 
-Casajus N (2024) _A Quarto template for HTML presentation with RevealJS framework_. Online presentation available at <https://github.com/biodiversitydata/quarto-template/>.
+Norvez O (2025) Data Management Plan: A tool to plan your own data lifecycle from the beginning. Online presentation available at <https://github.com/biodiversitydata/data-management-plan/>.
 
 
 ## Contributing
 
-All types of contributions are encouraged and valued. For more information, check out our [Contributor Guidelines](https://github.com/biodiversitydata/quarto-template/blob/main/CONTRIBUTING.md).
+All types of contributions are encouraged and valued. For more information, check out our [Contributor Guidelines](https://github.com/biodiversitydata/data-management-plan/blob/main/CONTRIBUTING.md).
 
-Please note that the `quarto-template` project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
+Please note that the `data-management-plan` project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
 
 
 ## Acknowledgments

@@ -1,0 +1,331 @@
+## The Data Management Plan
+
+<br/><br/>
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+
+- The Data Management Plan (DMP) is a **management tool**. It is presented in the form of a **structured document into sections** (or stapes). Its objective is to summarize the **description and evolution of the "objects" (data sets, metadata, source codes, etc.)** of your research project that you will generate over time.
+
+- It prepares the sharing, reuse and sustainability of the data. It is written during at the beginiing of the research project
+
+
+Adapted from [DORANum](https://doranum.fr/plan-gestion-donnees-dmp/)
+
+![](images/image-logo-doranum.png){width=50%}
+
+:::
+
+::: {.column width=50%}
+
+![](images/data-lifecycle-0.png){width=60% fig-align="center"}
+
+:::
+
+::::
+
+<!-- page X -->
+
+## The Data Management Plan
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+<br />
+
+- **All projects supported by the ANR (or by the EU, ...) must have a DMP**
+
+<br />
+
+- A first version of the DMP is expected at `T0+6 months` after the scientific start of the project. This version will be updated mid-term (for projects of more than 30 months) as well as at the end of the project
+
+<br />
+
+- The [DMP OPIDor tool](https://dmp.opidor.fr) is aligned with the ANR
+
+:::
+
+::: {.column width=50%}
+
+<br />
+
+![](images/image-dmp-anr-template.jpg){width=50% fig-align="center"}
+:::
+
+::::
+
+<!-- page X -->
+
+## The Data Management Plan
+
+> **The content of a DMP must make it possible to provide information of this type**
+
+:::: {.columns}
+
+::: {.column width=50%}
+- High-level information (title of the PGD, date of modification, etc.)
+- Research project description
+- Project funding description
+- DMP contact
+- DMP contributors
+- Data management costs
+- Dataset description
+:::
+
+::: {.column width=50%}
+- Datasets distribution
+- Data & metadata licences
+- Data hosting
+- Data sensibility a& security
+- Technical resources required for data production, storage and management
+- What metadata standard(s) is/are used to describe the data
+:::
+
+::::
+
+<br />
+
+{{< fa circle-right >}} &nbsp;Note that the DMP is **a living document** with different versions evolving over time between the pre-project and the post-project.
+
+
+<!-- page X -->
+
+## General recommendations
+
+- The definition of **licenses** (especially data and also source codes), to be carried out as soon as possible (if possible in the first months of the project) because if it takes too long, it will be too late
+
+    - We often see the mention of “creative commons will be used” which in fact does not indicate much. Therefore, it seems essential to me to specify whether **CC-BY 4.0** (therefore compatible **etalab v2.0** therefore open data) or other CC-BY-XX.. (therefore not open data) and especially not CC0 not authorized for research data
+    - When a **non-open license** is proposed, I ask if it is assumed (already to be well informed of what is considered open and not open)
+    - When the choice is assumed ;) I wonder if we can try to highlight the public funding aspects > 50% to try to provide a gentle reminder of the aspect of openness of public data which should normally be the rule
+
+- Specify the deadlines / **embargo periods** when mentioning a sharing deadline
+
+- Specify the proposed/expected **storage guarantees** (project duration/5/10/>10 years)
+
+<!-- page X -->
+
+## General recommendations
+
+##### Interoperability
+
+- Specify, if existing information, according to the data, which catalogs and/or warehouses will be precisely used
+
+- The presentation of links between the "in-house" standards mentioned and international standards
+
+<br />
+
+##### Source codes
+
+- For the source codes, if known, please list the libraries / packages / dependencies and access / use modes
+
+<br />
+
+##### People
+
+- Specify the function and structure of each person mentioned (if possible with ORCID)
+
+<!-- page X -->
+
+## Minimal information
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+<br /><br />
+
+**6 descriptive sections**, according to the [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+
+- Data description and collection, or re-use of existing data
+- Documentation and data quality
+- Storage and backup during the research process
+- Legal and ethical requirements
+- Data sharing and long-term preservation
+- Data management responsibilities and resources
+
+:::
+
+::: {.column width=50%}
+![](images/image-dmp-anr-template.jpg){width=60% fig-align="center"}
+:::
+
+::::
+
+<!-- page X -->
+
+## Minimal information
+
+##### {{< fa circle-right >}} &nbsp;Data description and collection, or re-use of existing data
+
+<br />
+
+- How will new data be collected or produced and/or how will existing data be re-used? (**methodology, software, data sources ...**)
+
+- What data (for example the kind, formats, and volumes), will be collected or produced? (**databases, spreadsheet, textual, images, sounds, ...**)
+
+<br /><br />
+
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+
+<!-- page X -->
+
+## Minimal information
+
+##### {{< fa circle-right >}} &nbsp;Documentation and data quality
+
+<br />
+
+- Process, calibration, standardization, ...
+
+<br /><br />
+
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+
+
+<!-- page X -->
+
+## Minimal information
+
+##### {{< fa circle-right >}} &nbsp;Storage and backup during the research process
+
+<br />
+
+- How will data and metadata be stored and backed up during the research? (**automatic backup, external storage, cloud, frequency, ...**)
+
+- How will data security and protection of sensitive data be taken care during the research
+
+<br /><br />
+
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+
+
+<!-- page X -->
+
+## Minimal information
+
+##### {{< fa circle-right >}} &nbsp;Legal and ethical requirements
+
+<br />
+
+- If personal data are processed, how will compliance with legislation on personal data and on security be ensured? (**RGPD / GDPR, anonymisation, pseudonymisation, ...**)
+
+- How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable? (**Open Data, restriction, data owner(s), ...**)
+
+- What ethical issues and codes of conduct are there, and how will they be taken into account? (**CARE principles, ethical council, ...**)
+
+<br /><br />
+
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+
+
+<!-- page X -->
+
+## Minimal information
+
+##### {{< fa circle-right >}} &nbsp;Data sharing and long-term preservation
+
+<br />
+
+- How and when will data be shared? (**data access, restrictions, embargo, archives, ...**)
+
+- How will data for preservation be selected, and where data will be preserved long-term? (**repository, metadata standards, data repository or archive ...**)
+
+- What methods or software tools are needed to access and use data? (**request handle, ...**)
+
+- How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each dataset be ensured? (**PID, ...**)
+
+<br /><br />
+
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+
+
+<!-- page X -->
+
+## Minimal information
+
+##### {{< fa circle-right >}} &nbsp;Data management responsibilities and resources
+
+<br />
+
+- Who (for example role, position, and institution) will be responsible for data management? (**DMP responsible, data stewardship, ...**)
+
+- What resources will be dedicated to data management and ensuring that data will be FAIR? (**data curation, data storage, financial and time cost, ...**)
+
+<br /><br />
+
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+
+
+<!-- page X -->
+
+## DMP OPIDoR
+
+A tool to help create online data management plans (Data Management Plan or DMP) made available to Higher Education and Research. It is hosted and managed by Inist-CNRS. Based on the open source code DMPRoadmap, it has been adapted to the needs of the French scientific community.
+
+<br />
+
+##### Customizable
+
+It participates in the implementation of data policies of institutions or disciplinary communities by adding adapted DMP models and facilitates the harmonization of good community practices
+
+<br />
+
+##### Machine actionable
+
+It facilitates entry and interactions with the services involved in data management
+
+<br />
+
+##### Templates 
+
+Search your funding support and/or your insitution templates
+
+[![](images/image-dmp-opidor.png){width=20%}](https://opidor.fr/planifier/)
+
+
+<!-- page X -->
+
+## Check the existing DMP templates
+
+
+| Model name  | Name of the organization  | Type of organization    | Download   |
+|:------------|:--------------------------|:-----------------------:|:----------:|
+| Science Europe machine actionnable DMP | Europe | Funders | [PDF](https://dmp.opidor.fr/template_export/952366587.pdf)
+| ANR - DMP template | Agence Nationale de la Recherche | Funders | [Word](https://dmp.opidor.fr/template_export/1858712127.docx)|
+| AgroParisTech - DMP template for Project | AgroParisTech | Institution | [Word](https://dmp.opidor.fr/template_export/2050970126.docx)|
+| CIRAD-TEMPLATE-ENG  | CIRAD | Institution | [Word](https://dmp.opidor.fr/template_export/177866310.docx)|
+| Horizon 2020 FAIR DMP | European Commission | Funders | [Word](https://dmp.opidor.fr/template_export/11.docx)|
+| ERC DMP  | European Research Council, ERC | Funders | [Word](European Research Council, ERC)|
+| INRAE - Project template  | INRAE | Institution | [Word](https://dmp.opidor.fr/template_export/1523589240.docx)|
+| Sorbonne Université - Modèle Plateforme | Sorbonne Université | Institution | [Word](https://dmp.opidor.fr/template_export/73161508.docx)|
+| University of Montpellier - DMP template 2 | Université de Montpellier | Institution | [Word](https://dmp.opidor.fr/template_export/86132113.docx)|
+
+: Table 1: Examples of DMP templates, from [DMP OPIDor](https://dmp.opidor.fr/public_templates)
+
+<br />
+
+{{< fa circle-right >}} &nbsp;Adapted from the [DMP OPIDor template sections](https://dmp.opidor.fr/public_templates) and adapted
+
+<!-- page X -->
+
+# Resources
+
+<!-- page X -->
+
+## Resources
+
+<!-- page X -->
+
+- DoRaNUM [Discover the DMP - *in french* -](https://doranum.fr/plan-gestion-donnees-dmp/)
+
+- OPIDor [Discover the DMP - *in french* -](https://opidor.fr/planifier/) and the [DMP OPIDor tool](https://dmp.opidor.fr)
+
+- ANR [FAQ PGD - *in french* -](https://anr.fr/fr/lanr/engagements/faq-pgd/) and a [template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+
+- PNDB ([collect data - *in french* -](https://www.pndb.fr/fr/outils-services/outils-services-par-etapes/organisation))
+
+
+
