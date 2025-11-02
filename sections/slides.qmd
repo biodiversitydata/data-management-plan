@@ -325,7 +325,7 @@ Search your funding support and/or your insitution templates
 
 - ANR [FAQ PGD - *in french* -](https://anr.fr/fr/lanr/engagements/faq-pgd/) and a [template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
 
-- PNDB ([collect data - *in french* -](https://www.pndb.fr/fr/outils-services/outils-services-par-etapes/organisation))
+- Examples of DMPs : [PREZODE DMP](https://docs.google.com/document/d/1TcgHIzLXini7RuXWYExeejXFAFT8zzt7/edit), [OZCAR DMP](https://dmp.opidor.fr/public_plans?page=1&search=theia%2FOZCAR), [Solu-BIOD DMP](https://dmp.opidor.fr/public_plans?page=1&search=solu-biod)
 
 
 
