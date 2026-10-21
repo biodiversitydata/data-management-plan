@@ -6,12 +6,12 @@
 <script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
 <link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="index_files/libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <link href="index_files/libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="index_files/libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <link href="index_files/libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
 <link href="index_files/libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.8.25">
+  <meta name="generator" content="quarto-1.10.19">
 
   <title>Data management plan</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -20,10 +20,16 @@
   <link rel="stylesheet" href="index_files/libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="index_files/libs/revealjs/dist/reveal.css">
   <style>
-    code{white-space: pre-wrap;}
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -32,7 +38,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="index_files/libs/revealjs/dist/theme/quarto-7e9783838747aff8f3e1fd2788a0d82a.css">
+  <link rel="stylesheet" href="index_files/libs/revealjs/dist/theme/quarto-c444b5ab7e5d07b649b9ffd7e725c9a6.css">
   <link href="index_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="index_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="index_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -148,7 +154,7 @@
 <p>A tool to plan your own data lifecycle from the beginning</p>
 </div>
 <div class="date">
-<p>November 2025</p>
+<p>October 2026</p>
 </div>
 <div class="columns authors">
 <div class="column author" style="width:32%;">
@@ -220,7 +226,7 @@
 <div class="column" style="width:50%;">
 <p><br></p>
 <ul>
-<li><strong>All projects supported by the ANR (or by the EU, …) must have a DMP</strong></li>
+<li><strong>All projects supported by the ANR (or by the Europe) must have a DMP</strong></li>
 </ul>
 <p><br></p>
 <ul>
@@ -328,76 +334,129 @@
 </section>
 <section id="minimal-information-1" class="slide level2">
 <h2>Minimal information</h2>
-<h5 id="data-description-and-collection-or-re-use-of-existing-data"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Data description and collection, or re-use of existing data</h5>
+<h5 id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d7269676874203e7d7d-data-description-and-collection-or-re-use-of-existing-data"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Data description and collection, or re-use of existing data</h5>
+<div class="citation">
+<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+</div>
 <p><br></p>
 <ul>
-<li><p>How will new data be collected or produced and/or how will existing data be re-used? (<strong>methodology, software, data sources …</strong>)</p></li>
-<li><p>What data (for example the kind, formats, and volumes), will be collected or produced? (<strong>databases, spreadsheet, textual, images, sounds, …</strong>)</p></li>
+<li>How will new data be collected or produced and/or how will existing data be re-used?</li>
 </ul>
-<p><br><br></p>
-<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+<blockquote>
+<p>Methodology, software, data sources, etc.</p>
+</blockquote>
+<ul>
+<li>What data will be collected or produced?</li>
+</ul>
+<blockquote>
+<p>Types, formats, volumes, etc.</p>
+</blockquote>
 <!-- page X -->
 </section>
 <section id="minimal-information-2" class="slide level2">
 <h2>Minimal information</h2>
-<h5 id="documentation-and-data-quality"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Documentation and data quality</h5>
+<h5 id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d7269676874203e7d7d-documentation-and-data-quality"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Documentation and data quality</h5>
+<div class="citation">
+<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+</div>
 <p><br></p>
 <ul>
-<li>Process, calibration, standardization, …</li>
+<li>Process, calibration, standardization, etc.</li>
 </ul>
-<p><br><br></p>
-<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
 <!-- page X -->
 </section>
 <section id="minimal-information-3" class="slide level2">
 <h2>Minimal information</h2>
-<h5 id="storage-and-backup-during-the-research-process"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Storage and backup during the research process</h5>
+<h5 id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d7269676874203e7d7d-storage-and-backup-during-the-research-process"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Storage and backup during the research process</h5>
+<div class="citation">
+<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+</div>
 <p><br></p>
 <ul>
-<li><p>How will data and metadata be stored and backed up during the research? (<strong>automatic backup, external storage, cloud, frequency, …</strong>)</p></li>
-<li><p>How will data security and protection of sensitive data be taken care during the research</p></li>
+<li>How will data and metadata be stored and backed up during the research?</li>
 </ul>
-<p><br><br></p>
-<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+<blockquote>
+<p>Automatic backup, external storage, cloud, frequency, etc.</p>
+</blockquote>
+<ul>
+<li>How will data security and protection of sensitive data be taken care during the research?</li>
+</ul>
 <!-- page X -->
 </section>
 <section id="minimal-information-4" class="slide level2">
 <h2>Minimal information</h2>
-<h5 id="legal-and-ethical-requirements"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Legal and ethical requirements</h5>
+<h5 id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d7269676874203e7d7d-legal-and-ethical-requirements"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Legal and ethical requirements</h5>
+<div class="citation">
+<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+</div>
 <p><br></p>
 <ul>
-<li><p>If personal data are processed, how will compliance with legislation on personal data and on security be ensured? (<strong>RGPD / GDPR, anonymisation, pseudonymisation, …</strong>)</p></li>
-<li><p>How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable? (<strong>Open Data, restriction, data owner(s), …</strong>)</p></li>
-<li><p>What ethical issues and codes of conduct are there, and how will they be taken into account? (<strong>CARE principles, ethical council, …</strong>)</p></li>
+<li>If personal data are processed, how will compliance with legislation on personal data and on security be ensured?</li>
 </ul>
-<p><br><br></p>
-<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+<blockquote>
+<p>GDPR, anonymisation, pseudonymisation, etc.</p>
+</blockquote>
+<ul>
+<li>How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?</li>
+</ul>
+<blockquote>
+<p>Open data, restriction, data owner(s), etc.</p>
+</blockquote>
+<ul>
+<li>What ethical issues and codes of conduct are there, and how will they be taken into account?</li>
+</ul>
+<blockquote>
+<p>CARE principles, ethical council, etc.</p>
+</blockquote>
 <!-- page X -->
 </section>
 <section id="minimal-information-5" class="slide level2">
 <h2>Minimal information</h2>
-<h5 id="data-sharing-and-long-term-preservation"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Data sharing and long-term preservation</h5>
+<h5 id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d7269676874203e7d7d-data-sharing-and-long-term-preservation"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Data sharing and long-term preservation</h5>
+<div class="citation">
+<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+</div>
 <p><br></p>
 <ul>
-<li><p>How and when will data be shared? (<strong>data access, restrictions, embargo, archives, …</strong>)</p></li>
-<li><p>How will data for preservation be selected, and where data will be preserved long-term? (<strong>repository, metadata standards, data repository or archive …</strong>)</p></li>
-<li><p>What methods or software tools are needed to access and use data? (<strong>request handle, …</strong>)</p></li>
-<li><p>How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each dataset be ensured? (<strong>PID, …</strong>)</p></li>
+<li>How and when will data be shared?</li>
 </ul>
-<p><br><br></p>
-<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+<blockquote>
+<p>Data access, restrictions, embargo, archives, etc.</p>
+</blockquote>
+<ul>
+<li>How will data for preservation be selected and where data will be preserved long-term?</li>
+</ul>
+<blockquote>
+<p>Repository, metadata standards, data repository or archive, etc.</p>
+</blockquote>
+<ul>
+<li><p>What methods or software tools are needed to access and use data?</p></li>
+<li><p>How will the application of an unique and persistent identifier to each dataset be ensured?</p></li>
+</ul>
+<blockquote>
+<p>PID, DOI, etc.</p>
+</blockquote>
 <!-- page X -->
 </section>
 <section id="minimal-information-6" class="slide level2">
 <h2>Minimal information</h2>
-<h5 id="data-management-responsibilities-and-resources"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Data management responsibilities and resources</h5>
+<h5 id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d7269676874203e7d7d-data-management-responsibilities-and-resources"><i class="fa-solid fa-circle-right" aria-label="circle-right"></i> &nbsp;Data management responsibilities and resources</h5>
+<div class="citation">
+<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+</div>
 <p><br></p>
 <ul>
-<li><p>Who (for example role, position, and institution) will be responsible for data management? (<strong>DMP responsible, data stewardship, …</strong>)</p></li>
-<li><p>What resources will be dedicated to data management and ensuring that data will be FAIR? (<strong>data curation, data storage, financial and time cost, …</strong>)</p></li>
+<li>Who will be responsible for data management?</li>
 </ul>
-<p><br><br></p>
-<p>From <a href="https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf">ANR template</a></p>
+<blockquote>
+<p>DMP responsible, data stewardship, etc.</p>
+</blockquote>
+<ul>
+<li>What resources will be dedicated to data management and ensuring that data will be FAIR?</li>
+</ul>
+<blockquote>
+<p>Data curation, data storage, financial and time cost, etc.</p>
+</blockquote>
 <!-- page X -->
 </section>
 <section id="dmp-opidor" class="slide level2">
