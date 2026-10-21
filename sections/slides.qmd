@@ -36,7 +36,7 @@ Adapted from [DORANum](https://doranum.fr/plan-gestion-donnees-dmp/)
 
 <br />
 
-- **All projects supported by the ANR (or by the EU, ...) must have a DMP**
+- **All projects supported by the ANR (or by the Europe) must have a DMP**
 
 <br />
 
@@ -160,15 +160,19 @@ Adapted from [DORANum](https://doranum.fr/plan-gestion-donnees-dmp/)
 
 ##### {{< fa circle-right >}} &nbsp;Data description and collection, or re-use of existing data
 
+::: {.citation}
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+:::
+
 <br />
 
-- How will new data be collected or produced and/or how will existing data be re-used? (**methodology, software, data sources ...**)
+- How will new data be collected or produced and/or how will existing data be re-used?
 
-- What data (for example the kind, formats, and volumes), will be collected or produced? (**databases, spreadsheet, textual, images, sounds, ...**)
+> Methodology, software, data sources, etc.
 
-<br /><br />
+- What data will be collected or produced?
 
-From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+> Types, formats, volumes, etc.
 
 <!-- page X -->
 
@@ -176,14 +180,13 @@ From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.
 
 ##### {{< fa circle-right >}} &nbsp;Documentation and data quality
 
+::: {.citation}
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+:::
+
 <br />
 
-- Process, calibration, standardization, ...
-
-<br /><br />
-
-From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
-
+- Process, calibration, standardization, etc.
 
 <!-- page X -->
 
@@ -191,15 +194,17 @@ From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.
 
 ##### {{< fa circle-right >}} &nbsp;Storage and backup during the research process
 
+::: {.citation}
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+:::
+
 <br />
 
-- How will data and metadata be stored and backed up during the research? (**automatic backup, external storage, cloud, frequency, ...**)
+- How will data and metadata be stored and backed up during the research? 
 
-- How will data security and protection of sensitive data be taken care during the research
+> Automatic backup, external storage, cloud, frequency, etc.
 
-<br /><br />
-
-From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+- How will data security and protection of sensitive data be taken care during the research?
 
 
 <!-- page X -->
@@ -208,17 +213,24 @@ From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.
 
 ##### {{< fa circle-right >}} &nbsp;Legal and ethical requirements
 
+::: {.citation}
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+:::
+
 <br />
 
-- If personal data are processed, how will compliance with legislation on personal data and on security be ensured? (**RGPD / GDPR, anonymisation, pseudonymisation, ...**)
+- If personal data are processed, how will compliance with legislation on personal data and on security be ensured? 
 
-- How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable? (**Open Data, restriction, data owner(s), ...**)
+> GDPR, anonymisation, pseudonymisation, etc.
 
-- What ethical issues and codes of conduct are there, and how will they be taken into account? (**CARE principles, ethical council, ...**)
+- How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
 
-<br /><br />
+> Open data, restriction, data owner(s), etc.
 
-From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+- What ethical issues and codes of conduct are there, and how will they be taken into account? 
+
+> CARE principles, ethical council, etc.
+
 
 
 <!-- page X -->
@@ -227,19 +239,25 @@ From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.
 
 ##### {{< fa circle-right >}} &nbsp;Data sharing and long-term preservation
 
+::: {.citation}
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+:::
+
 <br />
 
-- How and when will data be shared? (**data access, restrictions, embargo, archives, ...**)
+- How and when will data be shared? 
 
-- How will data for preservation be selected, and where data will be preserved long-term? (**repository, metadata standards, data repository or archive ...**)
+> Data access, restrictions, embargo, archives, etc.
 
-- What methods or software tools are needed to access and use data? (**request handle, ...**)
+- How will data for preservation be selected and where data will be preserved long-term? 
 
-- How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each dataset be ensured? (**PID, ...**)
+> Repository, metadata standards, data repository or archive, etc.
 
-<br /><br />
+- What methods or software tools are needed to access and use data? 
 
-From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+- How will the application of an unique and persistent identifier to each dataset be ensured? 
+
+> PID, DOI, etc.
 
 
 <!-- page X -->
@@ -248,15 +266,19 @@ From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.
 
 ##### {{< fa circle-right >}} &nbsp;Data management responsibilities and resources
 
+::: {.citation}
+From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+:::
+
 <br />
 
-- Who (for example role, position, and institution) will be responsible for data management? (**DMP responsible, data stewardship, ...**)
+- Who will be responsible for data management? 
 
-- What resources will be dedicated to data management and ensuring that data will be FAIR? (**data curation, data storage, financial and time cost, ...**)
+> DMP responsible, data stewardship, etc.
 
-<br /><br />
+- What resources will be dedicated to data management and ensuring that data will be FAIR? 
 
-From [ANR template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
+> Data curation, data storage, financial and time cost, etc.
 
 
 <!-- page X -->
