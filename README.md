@@ -82,7 +82,7 @@ To understand the file organisation of this repository, please read this [Wiki](
 
 ## Citation
 
-Norvez O (2025) Data Management Plan: A tool to plan your own data lifecycle from the beginning. Online presentation available at <https://github.com/biodiversitydata/data-management-plan/>.
+Norvez O (2026) _Data Management Plan: A tool to plan your own data lifecycle from the beginning_. Online presentation available at <https://github.com/biodiversitydata/data-management-plan/>.
 
 
 ## Contributing
