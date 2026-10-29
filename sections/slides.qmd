@@ -97,13 +97,15 @@ Adapted from [DORANum](https://doranum.fr/plan-gestion-donnees-dmp/)
 
 - The definition of **licenses** (especially data and also source codes), to be carried out as soon as possible (if possible in the first months of the project) because if it takes too long, it will be too late
 
-    - We often see the mention of “creative commons will be used” which in fact does not indicate much. Therefore, it seems essential to me to specify whether **CC-BY 4.0** (therefore compatible **etalab v2.0** therefore open data) or other CC-BY-XX.. (therefore not open data) and especially not CC0 not authorized for research data
-    - When a **non-open license** is proposed, I ask if it is assumed (already to be well informed of what is considered open and not open)
-    - When the choice is assumed ;) I wonder if we can try to highlight the public funding aspects > 50% to try to provide a gentle reminder of the aspect of openness of public data which should normally be the rule
+    - We often see the mention of “creative commons will be used” which in fact does not indicate much. Therefore, it seems essential to me to specify whether **CC-BY 4.0** (therefore compatible **etalab v2.0** therefore open data) or other CC-BY-XX.. (therefore not open data) and especially not CC0 not authorized for research data<br />
 
-- Specify the deadlines / **embargo periods** when mentioning a sharing deadline
+    - When a **non-open license** is proposed, I ask if it is assumed (already to be well informed of what is considered open and not open)<br />
 
-- Specify the proposed/expected **storage guarantees** (project duration/5/10/>10 years)
+    - When the choice is assumed ;) I wonder if we can try to highlight the public funding aspects > 50% to try to provide a gentle reminder of the aspect of openness of public data which should normally be the rule<br />
+
+- Specify the deadlines / **embargo periods** when mentioning a sharing deadline<br />
+
+- Specify the proposed/expected **storage guarantees** (project duration/5/10/>10 years)<br />
 
 <!-- page X -->
 
@@ -315,15 +317,20 @@ Search your funding support and/or your insitution templates
 
 | Model name  | Name of the organization  | Type of organization    | Download   |
 |:------------|:--------------------------|:-----------------------:|:----------:|
-| Science Europe machine actionnable DMP | Europe | Funders | [PDF](https://dmp.opidor.fr/template_export/952366587.pdf)
-| ANR - DMP template | Agence Nationale de la Recherche | Funders | [Word](https://dmp.opidor.fr/template_export/1858712127.docx)|
-| AgroParisTech - DMP template for Project | AgroParisTech | Institution | [Word](https://dmp.opidor.fr/template_export/2050970126.docx)|
-| CIRAD-TEMPLATE-ENG  | CIRAD | Institution | [Word](https://dmp.opidor.fr/template_export/177866310.docx)|
-| Horizon 2020 FAIR DMP | European Commission | Funders | [Word](https://dmp.opidor.fr/template_export/11.docx)|
-| ERC DMP  | European Research Council, ERC | Funders | [Word](European Research Council, ERC)|
-| INRAE - Project template  | INRAE | Institution | [Word](https://dmp.opidor.fr/template_export/1523589240.docx)|
-| Sorbonne Université - Modèle Plateforme | Sorbonne Université | Institution | [Word](https://dmp.opidor.fr/template_export/73161508.docx)|
-| University of Montpellier - DMP template 2 | Université de Montpellier | Institution | [Word](https://dmp.opidor.fr/template_export/86132113.docx)|
+| Science Europe DMP structured template - *in French* - | Europe | Funder | [PDF](https://dmp.opidor.fr/template_export/952366587.pdf)
+| Science Europe DMP structured template | Europe | Funder | [PDF](https://dmp.opidor.fr/template_export/2036991759.pdf)
+| ANR - DMP structured common template - *in French* - | ANR - Agence Nationale de la Recherche | Funder | [PDF](https://dmp.opidor.fr/template_export/987177148.pdf)|
+| ANR - DMP structured common template | ANR - Agence Nationale de la Recherche | Funder | [PDF](https://dmp.opidor.fr/template_export/628156484.pdf)|
+| ANR - DMP unstructured common template - *in French* - | ANR - Agence Nationale de la Recherche | Funders | [PDF](https://dmp.opidor.fr/template_export/1306665387.pdf)|
+| ANR - DMP unstructured common template | ANR - Agence Nationale de la Recherche | Funders | [PDF](https://dmp.opidor.fr/template_export/1858712127.pdf)|
+| DMP CNRS - *in French* - | CNRS - Centre National de la Recherche Scientifique | Institution | [PDF](https://dmp.opidor.fr/template_export/173666482.pdf)|
+| DMP CNRS | CNRS | Institution | [PDF](https://dmp.opidor.fr/template_export/425966301.pdf)|
+| AgroParisTech - DMP template for Entity | AgroParisTech | Institution | [PDF](https://dmp.opidor.fr/template_export/1055336039.pdf)|
+| AgroParisTech - DMP template for Entity - *in French* - | AgroParisTech | Institution | [PDF](https://dmp.opidor.fr/template_export/335508507.pdf)|
+| AgroParisTech - DMP template for Project  | AgroParisTech | Institution | [PDF](https://dmp.opidor.fr/template_export/2050970126.pdf)|
+| AgroParisTech - DMP template for Project - *in French* - | AgroParisTech | Institution | [PDF](https://dmp.opidor.fr/template_export/413287783.pdf)|
+| Horizon Europe DMP | European Commission | Funders | [PDF](https://dmp.opidor.fr/template_export/1971888333.pdf)|
+| ERC DMP  | European Research Council, ERC | Funders | [PDF](https://dmp.opidor.fr/template_export/1445076000.pdf)|
 
 : Table 1: Examples of DMP templates, from [DMP OPIDor](https://dmp.opidor.fr/public_templates)
 
@@ -341,13 +348,22 @@ Search your funding support and/or your insitution templates
 
 <!-- page X -->
 
-- DoRaNUM [Discover the DMP - *in french* -](https://doranum.fr/plan-gestion-donnees-dmp/)
+- EOSC [Data Management Guide](https://www.eosc.cz/en/services/data-management-planning)
 
-- OPIDor [Discover the DMP - *in french* -](https://opidor.fr/planifier/) and the [DMP OPIDor tool](https://dmp.opidor.fr)
+- Science Europe [Practical Guide to the International Alignment of Research Data Management - Extended Edition](https://doi.org/10.5281/zenodo.4915861)
+
+- DORANum [Discover the DMP - *in french* -](https://doranum.fr/plan-gestion-donnees-dmp/)
+
+- OPIDor [Discover the DMP - *in french* -](https://opidor.fr/planifier/), the [DMP OPIDor tool](https://dmp.opidor.fr), [example of DMPs](https://dmp.opidor.fr/public_plans#content)
+
+- Ouvrir la Science [PGD - recommandations à l'ANR - *in French* -](https://www.ouvrirlascience.fr/plan-de-gestion-de-donnees-recommandations-a-lanr/)
 
 - ANR [FAQ PGD - *in french* -](https://anr.fr/fr/lanr/engagements/faq-pgd/) and a [template](https://anr.fr/fileadmin/documents/2019/ANR_DMP_Template_EN.pdf)
 
-- Examples of DMPs : [PREZODE DMP](https://docs.google.com/document/d/1TcgHIzLXini7RuXWYExeejXFAFT8zzt7/edit), [OZCAR DMP](https://dmp.opidor.fr/public_plans?page=1&search=theia%2FOZCAR), [Solu-BIOD DMP](https://dmp.opidor.fr/public_plans?page=1&search=solu-biod)
+- Examples of DMPs : 
+    - Long Term Research Programs : [OZCAR DMP](https://dmp.opidor.fr/public_plans?page=1&search=theia%2FOZCAR), [Urban French LTER DMP](https://dmp.opidor.fr/plans/26277/export.pdf?export%5Bquestion_headings%5D=true)
+    - Research Projects [Solu-BIOD DMP](https://dmp.opidor.fr/public_plans?page=1&search=solu-biod), [SESAME](https://dmp.opidor.fr/plans/9857/export.pdf?export%5Bquestion_headings%5D=true), [Understanding and using ecosystem services provided by
+earthworms](https://dmp.opidor.fr/plans/9445/export.pdf?export%5Bquestion_headings%5D=true)
 
 
 
